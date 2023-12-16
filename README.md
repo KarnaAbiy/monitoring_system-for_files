@@ -1,26 +1,38 @@
 # monitoring_system-for_files
 File Monitoring System
-Hi there! Welcome to the File Monitoring System. This is a Java project I worked on during my time at HCMUS. It does a cool thing where it keeps an eye on folders, and I've added some other neat stuff too!
+Project Overview
+The File Monitoring System is designed to provide users with a streamlined solution for tracking changes and monitoring activity within specified files and directories. Its purpose is to offer real-time updates, alerts, and logs regarding modifications, additions, or deletions within the monitored files, aiding in version control and security management.
 
-What It Does
-Watching Folders: The program can watch folders that someone else sends to it.
-Picking Stuff: I made it so that it can choose a special file or folder inside the folder it's watching.
-Telling Me Things: Whenever someone adds, deletes, or changes stuff in the folder, it sends a message to me so I know what's happening.
-Watching Lots of People: It can watch lots of different people, but each person can only have one folder watched.
-Extra Cool Stuff
-Chatty Chats: There's a little chat thing that lets me talk to the program.
-Logs Galore: It can save logs in a file called 'log.txt'.
-Letting Me Know: If the program or I stop working, it tells the other one.
-How to Start
-If you're new to this, don't worry! Here's how you can start writing code in Java using Visual Studio Code.
+Project Requirements List:
 
-Where Things Are
-Inside the project, there are a few folders:
+File Tracking: Monitor changes within specified files and directories.
 
-src: This is where the main code lives.
-lib: It keeps important stuff the project needs.
-bin: When I run the program, it puts the finished stuff here.
-Finding What I Need
-To manage the things the project depends on, I use something called JAVA PROJECTS. I can add or remove things there to help my project work better.
+Real-time Updates: Provide instant notifications/alerts for any modifications made.
 
-I hope this helps! If you want more details, there might be some instructions or other info that came with the project. Or you can ask someone who knows more about this stuff!
+Logging System: Maintain a detailed log of file changes, including timestamps and user actions.
+
+User Authentication: Implement secure user authentication for access control.
+
+Configurable Settings: Allow users to customize monitoring settings.
+
+Notification System: Enable various notification methods (email, in-app, etc.) for alerts.
+
+Search Functionality: Implement a search feature within the logs for specific file activities.
+
+Reporting: Generate reports on file activities and changes over specified periods.
+
+Permission Management: Admin controls to manage user permissions and access levels.
+
+Scalability: Design the system to handle a scalable number of files and users.
+
+
+Team Members List:
+Karmyshev Abiy Com 21-A
+
+
+Screenshots:
+![image](https://github.com/KarnaAbiy/monitoring_system-for_files/assets/99629706/debadd6a-f35b-49cd-8f83-2d8e7d589dc8)
+
+
+Commit History:
+I did everything without commits as I did without a team
