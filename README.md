@@ -1,39 +1,29 @@
-# monitoring_system-for_files
-File Monitoring System
+Champ Kong Java Game
 
-Project Overview
-The File Monitoring System is designed to provide users with a streamlined solution for tracking changes and monitoring activity within specified files and directories. Its purpose is to offer real-time updates, alerts, and logs regarding modifications, additions, or deletions within the monitored files, aiding in version control and security management.
+Description
+Champ Kong is a classic arcade-style game developed in Java, inspired by the iconic game of a gorilla climbing skyscrapers and avoiding obstacles. This project aims to recreate the thrilling experience of navigating a climbing champ through challenging levels while evading hazards.
 
-Project Requirements List:
+Project Requirements List
+1.Player Controls: Implement smooth and responsive controls for the player character.
+2.Obstacle Generation: Create a system for generating obstacles and platforms dynamically.
+3.Collision Detection: Ensure accurate collision detection between the player and obstacles.
+4.Scoring System: Develop a scoring mechanism based on player progress and achievements.
+5.Game Loop: Establish a functional game loop for seamless gameplay.
+6.Game Over Handling: Implement game over conditions and display relevant information.
+7.Movement of objects
+8.Simple design
+9.Generation of objects
+10.Playability
 
-File Tracking: Monitor changes within specified files and directories.
+Documentation: You have to download some extensions in IntelJ, download jdk, change language level to 17 and just run kongmain file 
 
-Real-time Updates: Provide instant notifications/alerts for any modifications made.
+Team Members List
+Karmsyhev Abiy
 
-Logging System: Maintain a detailed log of file changes, including timestamps and user actions.
+Roles of Group Members
+Abiy: Whole job done by me
 
-User Authentication: Implement secure user authentication for access control.
+Screenshots
 
-Configurable Settings: Allow users to customize monitoring settings.
-
-Notification System: Enable various notification methods (email, in-app, etc.) for alerts.
-
-Search Functionality: Implement a search feature within the logs for specific file activities.
-
-Reporting: Generate reports on file activities and changes over specified periods.
-
-Permission Management: Admin controls to manage user permissions and access levels.
-
-Scalability: Design the system to handle a scalable number of files and users.
-
-
-Team Members List:
-Karmyshev Abiy Com 21-A
-
-
-Screenshots:
-![image](https://github.com/KarnaAbiy/monitoring_system-for_files/assets/99629706/debadd6a-f35b-49cd-8f83-2d8e7d589dc8)
-
-
-Commit History:
-I did everything without commits as I did without a team
+Commit History
+The commit history for this project is available on GitHub.
