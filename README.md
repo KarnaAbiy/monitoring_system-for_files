@@ -24,6 +24,8 @@ Roles of Group Members
 Abiy: Whole job done by me
 
 Screenshots
+![Снимок экрана (51)](https://github.com/KarnaAbiy/monitoring_system-for_files/assets/99629706/dc7c49c2-5624-4a34-a95a-e8092c5eec4d)
+
 
 Commit History
 The commit history for this project is available on GitHub.
