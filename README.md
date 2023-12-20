@@ -26,6 +26,7 @@ Abiy: Whole job done by me
 Screenshots
 ![Снимок экрана (51)](https://github.com/KarnaAbiy/monitoring_system-for_files/assets/99629706/dc7c49c2-5624-4a34-a95a-e8092c5eec4d)
 ![Снимок экрана (50)](https://github.com/KarnaAbiy/monitoring_system-for_files/assets/99629706/a33c8763-13a8-4ca5-9ebc-2b333829a594)
+![Снимок экрана (49)](https://github.com/KarnaAbiy/monitoring_system-for_files/assets/99629706/820a3282-7251-465d-abe5-82b96e9a9aed)
 
 
 Commit History
